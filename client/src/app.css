@@ -1,0 +1,16 @@
+.app {
+  background: url('../src/assets/tree.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100%;
+
+}
+
+.bg{
+
+  background: url('../src/assets/tree.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+
+}
